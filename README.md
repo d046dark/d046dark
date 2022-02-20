@@ -1,4 +1,10 @@
-### Hi there 👋
+### 👋 Greetings, I'm Alan.
+
+I'm currently working for semiconductor industry as an Equipment Software Engineer🛠️. A senior PC-based software engineer who used to work with C# & LabVIEW to implement production or R&D systems. Currently, I am looking for relative materials about C# & DevOps ♾️. Suppose this operation tool can relieve some efforts and provide concrete automated test in CI/CD.
+
+
+
+> Contact info: [LinkedIn](https://www.linkedin.com/in/yue-yingli/)🌐🌐🌐
 
 <!--
 **d046dark/d046dark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
